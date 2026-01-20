@@ -1,0 +1,7 @@
+Plant Name,Product,Quantity (MT),Aging Days,Demand (MT)
+Plant A,Iron Ore,25000,5,30000
+Plant A,Coal,15000,3,20000
+Plant B,Iron Ore,20000,7,25000
+Plant B,Coal,18000,4,22000
+Plant C,Iron Ore,30000,2,35000
+Plant D,Coal,12000,6,18000

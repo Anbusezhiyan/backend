@@ -1,0 +1,6 @@
+Vessel Name,Capacity (MT),ETA,Current Delay (Days),Distance (NM),Weather Factor
+Vessel A,50000,2023-10-01,2,1200,3
+Vessel B,60000,2023-10-05,1,1100,2
+Vessel C,55000,2023-10-10,0,1300,4
+Vessel D,45000,2023-10-15,3,1050,1
+Vessel E,65000,2023-10-20,1,1250,5
